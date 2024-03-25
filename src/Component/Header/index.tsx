@@ -12,7 +12,7 @@ export const Header: React.FC<props> = ({ toolname, advisorId }) => {
     <AppBar
       sx={{ backgroundColor: "#336BFF", 
             display: "flex", 
-            flexDirection: "row", 
+            flexDirection: "row",  
             height: "90px", 
             justifyContent: "space-between",
             alignItems: "center",
